@@ -321,6 +321,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Tauri Chess](https://github.com/jamessizeland/tauri-chess) - Implementation of Chess, logic in Rust and visualization in React.
 - [Teyvat Guide](https://github.com/BTMuli/TeyvatGuide) - Game Tool for Genshin Impact player.
 - [Quadrant](https://github.com/mrquantumoff/quadrant/) - Tool for managing Minecraft mods and modpacks with the ability to use Modrinth and CurseForge.
+- [Hq Launcher](https://github.com/p-asta/hq-launcher/) - Lethal company high quota launcher.
 
 ### Information
 
